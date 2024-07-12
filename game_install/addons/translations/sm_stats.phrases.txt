@@ -12,6 +12,7 @@
 		"jp" "{yellow}エラー: {grey}SM Stats: Core {yellow}が準備できませんでした。"
 		"sv" "{yellow}Fel: {grey}SM Stats: Core {yellow}har inte laddats ännu."
 		"tr" "{yellow}Hata: {grey}SM Stats: Core {yellow}daha yüklenmedi."
+		"chi" "{yellow}错误: {grey}SM Stats: Core {yellow}未进行初始化."
 	}
 	"#SMStats_Error_SQLNotInitialized"
 	{
@@ -19,6 +20,7 @@
 		"jp" "{yellow}エラー: {grey}SQL 接続が使用可能できません。"
 		"sv" "{yellow}Fel {grey}SQL Anslutning {yellow}är för tillfället otillgänglig."
 		"tr" "{yellow}Hata: {grey}SQL Bağlantısı {yellow}kurulamadı."
+		"chi" "{yellow}错误: {grey}SQL 连接 {yellow}不可用."
 	}
 
 	//================================//
@@ -30,6 +32,7 @@
 		"jp" "ヶ年"
 		"sv" " år"
 		"tr" " yıl"
+		"chi" " 年"
 	}
 	"#SMStats_TimeFormat_Month"
 	{
@@ -38,6 +41,7 @@
 		"sv" " måned#|# måneder"
 		"sv" " månad#|# månader"
 		"tr" " ay"
+		"chi" " 月"
 	}
 	"#SMStats_TimeFormat_Day"
 	{
@@ -46,6 +50,7 @@
 		"no" " dag#|# dager"
 		"sv" " dag#|# dagar"
 		"tr" " gün"
+		"chi" " 日"
 	}
 	"#SMStats_TimeFormat_Hour"
 	{
@@ -54,6 +59,7 @@
 		"no" " time#|# timer"
 		"sv" " timme#|# timmar"
 		"tr" " saat"
+		"chi" " 小时"
 	}
 	"#SMStats_TimeFormat_Minute"
 	{
@@ -62,6 +68,7 @@
 		"no" " minut#|# minuter"
 		"sv" " minut#|# minuter"
 		"tr" " dakika"
+		"chi" " 分钟"
 	}
 	"#SMStats_TimeFormat_Second"
 	{
@@ -70,6 +77,7 @@
 		"no" " sekund#|# sekunder"
 		"sv" " sekund#|# sekunder"
 		"tr" " saniye"
+		"chi" " 秒"
 	}
 	"#SMStats_TimeFormatShort_Hour"
 	{
@@ -78,12 +86,14 @@
 		"no" "hr"
 		"sv" "hr"
 		"tr" "sa"
+		"chi" "小时"
 	}
 	"#SMStats_TimeFormatShort_Minute"
 	{
 		"en" "min"
 		"jp" "分"
 		"tr" "dk"
+		"chi" "分钟"
 	}
 	"#SMStats_TimeFormatShort_Second"
 	{
@@ -92,6 +102,7 @@
 		"no" "sek"
 		"sv" "sek"
 		"tr" "sn"
+		"chi" "秒"
 	}
 	"#SMStats_TimeFormat_AM_PM"
 	{
@@ -100,6 +111,7 @@
 		"no" "Morgen#|#Ettermiddag"
 		"sv" "Förmiddag#|#Eftermiddag"
 		"tr" "ÖÖ#|#ÖS"
+		"chi" "上午#|#下午"
 	}
 	"#SMStats_PlayTimeFormat_Scenario0"
 	{
@@ -115,6 +127,7 @@
 		"no" "{1}, {2}, {3}, {4}, {5} og {6}"
 		"sv" "{1}, {2}, {3}, {4}, {5} och {6}"
 		"tr" "{1}, {2}, {3}, {4}, {5} ve {6}"
+		"chi" "{1}, {2}, {3} , {4}/{5}/{6}"
 	}
 	"#SMStats_PlayTimeFormat_Scenario1"
 	{
@@ -190,6 +203,7 @@
 		"sv" "{YEAR}/{DAY}/{MONTH}"
 		"no" "{YEAR}/{DAY}/{MONTH}"
 		"tr" "{YEAR}/{MONTH}/{DAY}"
+		"chi" "{YEAR}/{MONTH}/{DAY}"
 	}
 
 	//================================//
@@ -201,18 +215,21 @@
 		"sv" "{grey}Använding: {lightgreen}sm_stats <topp spelarplacering | steamid>  {grey}Exempel nedan:\n{grey}sm_stats {lightgreen}\n{grey}sm_stats {lightgreen}\"STEAM_0:0:694201337\""
 		"jp" "{grey}使用: {lightgreen}sm_stats <トッププレイヤー | steamid>  {grey}例の下：\n{grey}sm_stats {lightgreen}\n{grey}sm_stats {lightgreen}\"STEAM_0:0:694201337\""
 		"tr" "{grey}Kullanım: {lightgreen}sm_stats <Oyuncu sıralaması | steamid>  {grey}Örnek:\n{grey}sm_stats {lightgreen}1\n{grey}sm_stats {lightgreen}\"STEAM_0:0:694201337\""
+		"chi" "{grey}用法: {lightgreen}sm_stats <top player position | steamid>  {grey}举例:\n{grey}sm_stats {lightgreen}1\n{grey}sm_stats {lightgreen}\"STEAM_0:0:694201337\""
 	}
 	"#SMStats_StatsCmd_Error"
 	{
 		"en" "{yellow}Error: {default}You must enter a valid top player position or steamid."
 		"sv" "{yellow}Fel: {default}Du måste ange ett giltigt spelarplacering eller steamid."
 		"tr" "{yellow}Hata: {default}Geçerli bir sıralama veya steamid girmelisiniz."
+		"chi" "{yellow}错误: {default}您需要输入有效的Top玩家或者SteamID."
 	}
 	"#SMStats_StatsCmd_NULL"
 	{
 		"en" "{yellow}Error: {default}The value may not be {red}NULL{default}."
 		"sv" "{yellow}Fel: {default}Värdet bör ej vara {red}tom{default}."
 		"tr" "{yellow}Hata: {default}Değer {red}BOŞ{default} olamaz."
+		"chi" "{yellow}错误: {default}The value may not be {red}NULL{default}."
 	}
 	"#SMStats_StatsCmd_InvalidTopPlayer"
 	{
@@ -886,22 +903,22 @@
 	{
 		"en" "k"
 		"jp" "万"
-		"chi" "万"
-		"zho" "万"
+		"chi" "千"
+		"zho" "千"
 	}
 	"#SMStats_PointsFormat_100K"
 	{
 		"en" "k"
 		"jp" "万"
-		"chi" "万"
-		"zho" "万"
+		"chi" "千"
+		"zho" "千"
 	}
 	"#SMStats_PointsFormat_1M"
 	{
 		"en" "M"
 		"jp" "百万"
-		"chi" "百万"
-		"zho" "百万"
+		"chi" "万"
+		"zho" "万"
 	}
 	"#SMStats_FeatureUnavailable"
 	{
@@ -909,6 +926,7 @@
 	    "jp" "この機能が利用できません。"
 	    "sv" "Funktionen är förnuvarande otillgänglig."
 	    "tr" "Bu özellik şu anda kullanılamıyor."
+		"chi" "功能当前不可用"
 	}
 	
 	//================================//

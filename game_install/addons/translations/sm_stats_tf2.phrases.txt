@@ -10,6 +10,7 @@
 		"en" "Dominations : {1}"
 		"sv" "Domineringar : {1}"
 		"tr" "Hükümler: {1}"
+		"chi" "控制: {1}"
 	}
 	"#SMStats_MenuInfo_Revenges"
 	{
@@ -18,6 +19,7 @@
 		"en" "Revenges : {1}"
 		"sv" "Hämningar : {1}"
 		"tr" "İntikamlar: {1}"
+		"chi" "复仇: {1}"
 	}
 	"#SMStats_MenuInfo_Airshots"
 	{
@@ -27,6 +29,7 @@
 		"jp" "エアショット : {1}"
 		"sv" "Luftskott : {1}"
 		"tr" "Havada Vuruşlar: {1}"
+		"chi" "空接: {1}"
 	}
 	"#SMStats_MenuInfo_Headshots"
 	{
@@ -36,6 +39,7 @@
 		"jp" "ヘッドショット : {1}"
 		"sv" "Huvudskott : {1}"
 		"tr" "Kafadan Vuruşlar: {1}"
+		"chi" "爆头: {1}"
 	}
 	"#SMStats_MenuInfo_Noscopes"
 	{
@@ -45,6 +49,7 @@
 		"jp" "ノースコープ : {1}"
 		"sv" "Icke-zoomingsskott : {1}"
 		"tr" "Dürbünsüz Vuruşlar: {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Backstabs"
 	{
@@ -54,6 +59,7 @@
 		"jp" "バックスタッブ : {1}"
 		"sv" "Rygghugg : {1}"
 		"tr" "Sırt Bıçaklamaları: {1}"
+		"chi" "背刺: {1}"
 	}
 	"#SMStats_MenuInfo_TauntFrags"
 	{
@@ -62,6 +68,7 @@
 		"en" "Tauntkills : {1}"
 		"sv" "Håndödsantal : {1}"
 		"tr" "Alay Öldürmeleri: {1}"
+		"chi" "嘲讽击杀: {1}"
 	}
 	"#SMStats_MenuInfo_GibFrags"
 	{
@@ -70,6 +77,7 @@
 		"en" "Gib frags : {1}"
 		"sv" "Gibbfrags : {1}"
 		"tr" "Parçalanmış Kurbanlar: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_DeflectFrags"
 	{
@@ -78,6 +86,7 @@
 		"en" "Deflect frags : {1}"
 		"sv" "Deflekteringsfrags : {1}"
 		"tr" "Püskürtme: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_TeleFrags"
 	{
@@ -87,6 +96,7 @@
 		"jp" "テレフラッグ : {1}"
 		"sv" "Telefraggade : {1}"
 		"tr" "Tele-Öldürmeler: {1}"
+		//"chi" "传送器碎片: {1}"
 	}
 	"#SMStats_MenuInfo_Collaterals"
 	{
@@ -95,6 +105,7 @@
 		"en" "Collaterals : {1}"
 		"sv" "Kollateraler : {1}"
 		"tr" "Doğal Yollar ile Ölüm: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_MidAirFrags"
 	{
@@ -103,6 +114,7 @@
 		"en" "Mid Air frags : {1}"
 		"sv" "Mitt-i-luftenfrags : {1}"
 		"tr" "Havada Öldürmeler: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_CritFrags"
 	{
@@ -111,6 +123,7 @@
 		"en" "Critical frags : {1}"
 		"sv" "Kritiska frags : {1}"
 		"tr" "Kritik Öldürmeler: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_MiniCritFrags"
 	{
@@ -118,6 +131,7 @@
 		"#format" "{1:i}"
 		"en" "Mini-Crit frags : {1}"
 		"tr" "Mini-Kritik Öldürmeler: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_PumpkinBombFrags"
 	{
@@ -125,6 +139,7 @@
 		"#format" "{1:i}"
 		"en" "Pumpkin bomb frags : {1}"
 		"tr" "Bal Kabağı Bombası ile Öldürmeler: {1}"
+		//"chi" ""
 	}
 	"#SMStats_MenuInfo_Scout"
 	{
@@ -135,6 +150,7 @@
 		"jp" "スカウト : {1}FRAG / {2}死亡"
 		"sv" "Löpare : {1} Fraggad / {2} Dödsfall"
 		"tr" "Scout : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Soldier"
 	{
@@ -145,6 +161,7 @@
 		"jp" "ソルジャー : {1}FRAG / {2}死亡"
 		"sv" "Soldat : {1} Fraggad / {2} Dödsfall"
 		"tr" "Soldier : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Pyro"
 	{
@@ -155,6 +172,7 @@
 		"jp" "パイロ : {1}FRAG / {2}死亡"
 		"sv" "Pyro : {1} Fraggad / {2} Dödsfall"
 		"tr" "Pyro : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Demoman"
 	{
@@ -165,6 +183,7 @@
 		"jp" "デモマン : {1}FRAG / {2}死亡"
 		"sv" "Demoman : {1} Fraggad / {2} Dödsfall"
 		"tr" "Demoman : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Heavy"
 	{
@@ -175,6 +194,7 @@
 		"jp" "ヘビー : {1}FRAG / {2}死亡"
 		"sv" "Heavy : {1} Fraggad / {2} Dödsfall"
 		"tr" "Heavy : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Engineer"
 	{
@@ -185,6 +205,7 @@
 		"jp" "エンジニア : {1}FRAG / {2}死亡"
 		"sv" "Ingenjör : {1} Fraggad / {2} Dödsfall"
 		"tr" "Engineer : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Medic"
 	{
@@ -195,6 +216,7 @@
 		"jp" "メディック : {1}FRAG / {2}死亡"
 		"sv" "Sjukvårdare : {1} Fraggad / {2} Dödsfall"
 		"tr" "Medic : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Sniper"
 	{
@@ -205,6 +227,7 @@
 		"jp" "スナイパー : {1}FRAG / {2}死亡"
 		"sv" "Krypskyttare : {1} Fraggad / {2} Dödsfall"
 		"tr" "Sniper : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Spy"
 	{
@@ -215,6 +238,7 @@
 		"jp" "スパイ : {1}FRAG / {2}死亡"
 		"sv" "Spion : {1} Fraggad / {2} Dödsfall"
 		"tr" "Spy : {1} Leş / {2} Ölüm"
+		"chi" ""
 	}
 
 	"#SMStats_MenuInfo_Buildings"
@@ -225,6 +249,7 @@
 		"en" "Buildings : {1} Placed / {2} Destroyed"
 		"sv" "Byggnader : {1} Placerad / {2} Förstörd"
 		"tr" "Binalar : {1} İnşa edildi / {2} Yok edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Dispenser"
 	{
@@ -234,6 +259,7 @@
 		"en" "Dispenser : {1} Placed / {2} Destroyed"
 		"sv" "Utmatare : {1} Placerad / {2} Förstörd"
 		"tr" "Dispenser : {1} İnşa Edildi / {2} Yok Edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_SentryGun"
 	{
@@ -243,6 +269,7 @@
 		"en" "Sentry Gun : {1} Placed / {2} Destroyed"
 		"sv" "Vaktgevär : {1} Placerad / {2} Förstörd"
 		"tr" "Sentry : {1} İnşa Edildi / {2} Yok Edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_TeleporterEntrance"
 	{
@@ -252,6 +279,7 @@
 		"en" "Teleporter Entrance : {1} Placed / {2} Destroyed"
 		"sv" "Ingångsteleporter : {1} Placerad / {2} Förstörd"
 		"tr" "Işınlayıcı Girişi : {1} İnşa Edildi / {2} Yok Edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_TeleporterExit"
 	{
@@ -261,6 +289,7 @@
 		"en" "Teleporter Exit : {1} Placed / {2} Destroyed"
 		"sv" "Utgångsteleporter : {1} Placerad / {2} Förstörd"
 		"tr" "Işınlayıcı Çıkışı : {1} İnşa Edildi / {2} Yok Edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_MiniSentryGun"
 	{
@@ -270,6 +299,7 @@
 		"en" "Mini-Sentry Gun : {1} Placed / {2} Destroyed"
 		"sv" "Mini-Vaktgevär : {1} Placerad / {2} Förstörd"
 		"tr" "Mini-Sentry : {1} İnşa Edildi / {2} Yok Edildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Sapper"
 	{
@@ -279,6 +309,7 @@
 		"en" "Sapper : {1} Placed / {2} Destroyed"
 		"sv" "Sapper : {1} Placerad / {2} Förstörd"
 		"tr" "Sapper : {1} Yerleştirildi / {2} Kırıldı"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_SentryGunFrags"
 	{
@@ -290,6 +321,7 @@
 		"en" "Sentry Gun Frags \nTotal : {1}\n  LVL1 : {2}\n  LVL2 : {3}\n  LVL3 : {4}\n  Mini : {5}"
 		"jp" "セントリーガンFRAG \n合計 : {1}\n  LVL1 : {2}\n  LVL2 : {3}\n  LVL3 : {4}\n  ミニ : {5}"
 		"sv" "Vaktgevärs Frags \nTotal : {1}\n  LVL1 : {2}\n  LVL2 : {3}\n  LVL3 : {4}\n  Mini : {5}"
+		"chi" ""
 	}
 
 	"#SMStats_MenuInfo_CP_Captured"
@@ -299,6 +331,7 @@
 		"en" "Capture Points captured : {1}"
 		"sv" "Kontrollpunkter Erövrad : {1}"
 		"tr" "Ele geçirilen kontrol noktaları : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CP_Defended"
 	{
@@ -307,6 +340,7 @@
 		"en" "Capture Points defended : {1}"
 		"sv" "Kontrollpunkter försvarad : {1}"
 		"tr" "Korunan kontrol noktaları : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CTF_Stolen"
 	{
@@ -315,6 +349,7 @@
 		"en" "Flags stolen : {1}"
 		"sv" "Flaggor stulna : {1}"
 		"tr" "Düşmandan çalınan bayraklar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CTF_PickedUp"
 	{
@@ -323,6 +358,7 @@
 		"en" "Flags picked up : {1}"
 		"sv" "Flaggor uppplockad : {1}"
 		"tr" "Yerden alınan bayraklar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CTF_Captured"
 	{
@@ -331,6 +367,7 @@
 		"en" "Flags captured : {1}"
 		"sv" "Flaggor erövrad : {1}"
 		"tr" "Ele geçirilen bayraklar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CTF_Defended"
 	{
@@ -339,6 +376,7 @@
 		"en" "Flags defended : {1}"
 		"sv" "Flaggor försvarad : {1}"
 		"tr" "Korunan bayraklar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CTF_Dropped"
 	{
@@ -347,6 +385,7 @@
 		"en" "Flags dropped : {1}"
 		"sv" "Flaggor tappad : {1}"
 		"tr" "Düşürülen bayraklar : {1}"
+		"chi" ""
 	}
 
 	"#SMStats_MenuInfo_TeleportersUsed"
@@ -357,6 +396,7 @@
 		"jp" "テレポーター使った : {1}"
 		"sv" "Teleportrar använt : {1}"
 		"tr" "Kullanılmış Işınlayıcılar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_PlayersTeleported"
 	{
@@ -366,6 +406,7 @@
 		"jp" "プレイヤーをテレポートされた : {1}"
 		"sv" "Spelare teleporterad : {1}"
 		"tr" "Işınlanan Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CoatedPiss"
 	{
@@ -374,6 +415,7 @@
 		"en" "Players coated with piss : {1}"
 		"sv" "Spelare täckt med urin : {1}"
 		"tr" "Kavate ile Kaplanan Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CoatedMilk"
 	{
@@ -382,6 +424,7 @@
 		"en" "Players coated with milk : {1}"
 		"sv" "Spelare täckt med mjölk : {1}"
 		"tr" "Süt ile Kaplanan Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_CoatedGasoline"
 	{
@@ -390,6 +433,7 @@
 		"en" "Players coated with gasoline : {1}"
 		"sv" "Spelare täckt med bensin : {1}"
 		"tr" "Benzin dökülmüş Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Coated"
 	{
@@ -398,6 +442,7 @@
 		"en" "Players coated : {1}"
 		"sv" "Spelare täckt : {1}"
 		"tr" "Bulanan oyuncu sayısı : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Extinguished"
 	{
@@ -406,6 +451,7 @@
 		"en" "Players extinguished : {1}"
 		"sv" "Spelare släckt : {1}"
 		"tr" "Söndürülen Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Ignited"
 	{
@@ -414,6 +460,7 @@
 		"en" "Players ignited : {1}"
 		"sv" "Spelare påtänd : {1}"
 		"tr" "Yakılmış oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_Ubercharged"
 	{
@@ -422,6 +469,7 @@
 		"en" "Players übercharged : {1}"
 		"sv" "Spelare überladdad : {1}"
 		"tr" "Über verilen Oyuncular : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_SandvichesStolen"
 	{
@@ -430,6 +478,7 @@
 		"en" "Sandviches stolen : {1}"
 		"sv" "Smörgåsar stulen : {1}"
 		"tr" "Çalınan Sandviçler : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_StunnedPlayers"
 	{
@@ -439,6 +488,7 @@
 		"en" "Stunned players : {1} / {2} Moon Shots"
 		"sv" "Förvånade spelare : {1} / {2} Månskott"
 		"tr" "Sersemletilen Oyuncular : {1} / {2} Ay Atışı"
+		"chi" ""
 	}
 
 	"#SMStats_MenuInfo_HWN_Monoculus"
@@ -449,6 +499,7 @@
 		"en" "Monoculus : {1} Fragged / {2} Stunned"
 		"sv" "Monoculus : {1} Fraggad / {2} Stunnad"
 		"tr" "Monoculus : {1} Öldürüldü / {2} Sersemletildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_HWN_Merasmus"
 	{
@@ -458,6 +509,7 @@
 		"en" "Merasmus : {1} Fragged / {2} Stunned"
 		"sv" "Merasmus : {1} Fraggad / {2} Stunnad"
 		"tr" "Merasmus : {1} Öldürüldü / {2} Sersemletildi"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_HWN_HHH"
 	{
@@ -467,6 +519,7 @@
 		"jp" "Horseless Headless Horsemann : {1}FRAGした"
 		"sv" "Horseless Headless Horsemann : {1} Fraggade"
 		"tr" "Horseless Headless Horsemann : {1} Öldürüldü"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_HWN_SkeletonKing"
 	{
@@ -476,6 +529,7 @@
 		"jp" "Skeleton King : {1}FRAGした"
 		"sv" "Skelettkung : {1} Fraggade"
 		"tr" "İskelet Kral : {1} Öldürüldü"
+		"chi" ""
 	}
 
 	"#SMStats_MenuInfo_MvM_TanksDestroyed"
@@ -485,6 +539,7 @@
 		"en" "Tanks destroyed : {1}"
 		"sv" "Tankar förstörda : {1}"
 		"tr" "Yok edilen tanklar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_MvM_SentryBustersFragged"
 	{
@@ -493,6 +548,7 @@
 		"en" "Sentry Busters destroyed : {1}"
 		"sv" "Vaktgevärsförgörare förstörda : {1}"
 		"tr" "Yok edilen Sentry Busterlar : {1}"
+		"chi" ""
 	}
 	"#SMStats_MenuInfo_MvM_BombsResetted"
 	{
@@ -502,6 +558,7 @@
 		"jp" "ボンブをリセット : {1}"
 		"sv" "Bomber resettad : {1}"
 		"tr" "Sıfırlanan bombalar : {1}"
+		"chi" ""
 	}
 
 	//===================//
@@ -514,6 +571,7 @@
 		"en" "{green}Capturing Point {default}{1}"
 		"sv" "{green}Erövra Kontrollspunkten {default}{1}"
 		"tr" "{green}Ele geçirilen nokta: {default}{1}"
+		"chi" ""
 	}
 	"#SMStats_CaptureEvent_Type1" //Defended the point.
 	{
@@ -522,6 +580,7 @@
 		"en" "{green}Defending Point {default}{1}"
 		"sv" "{green}Försvara Kontrollspunkten"
 		"tr" "{green}Savunulan Nokta: {default}{1}"
+		"chi" ""
 	}
 	"#SMStats_CaptureEvent_Default" 
 	{
@@ -534,6 +593,7 @@
 		"jp" "{1} ({2}) が {4} ため {3}"
 		"sv" "{1} ({2}) {3} för att {4}"
 		"tr" "{1} ({2}) {4} noktasını ele geçirerek {3} kazandı"
+		"chi" ""
 	}
 
 	//===================//
@@ -544,30 +604,35 @@
 		"en" "{green}Picking Up Opponents Flag"
 		"sv" "{green}Plocka Upp Motståndsflaggan"
 		"tr" "{green}Düşman istihbaratını aldı"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent_Type1" //Stole the opponents intelligence.
 	{
 		"en" "{green}Stealing Opponents Flag"
 		"sv" "{green}Stjäla Motståndsflaggan"
 		"tr" "{green}Düşman İstihbaratını Çaldı"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent_Type2" //Captured the opponents intelligence.
 	{
 		"en" "{green}Capturing Opponents Flag"
 		"sv" "{green}Erövra Motståndsflaggan"
 		"tr" "{green}Düşman İstihbaratını Ele Geçirdi"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent_Type3" //Defended the opponnents intelligence.
 	{
 		"en" "{green}Defending Team Flag"
 		"sv" "{green}Försvara Lagsflaggan"
 		"tr" "{green}Takım Bayrağını Savundu"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent_Type4" //Dropped the opponents intelligence.
 	{
 		"en" "{green}Dropping Opponents Flag"
 		"sv" "{green}Tappa Motståndsflaggan"
 		"tr" "{green}Düşman İstihbaratını Düşürdü"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent0" //Earned points on intelligence event.
 	{
@@ -580,6 +645,7 @@
 		"jp" "{1} ({2}) が {4} ため {3}"
 		"sv" "{1} ({2}} {3} ({4})"
 		"tr" "{1} ({2}) {4} ve {3} kazandı"
+		"chi" ""
 	}
 	"#SMStats_FlagEvent1" //Lost points on intelligence event.
 	{
@@ -592,6 +658,7 @@
 		"jp" "{1} ({2}) が {4} ため {3}"
 		"sv" "{1} ({2}) {3} ({4})"
 		"tr" "{1} ({2}) {4} ve {3} kaybetti"
+		"chi" ""
 	}
 
 	//===================//
@@ -603,6 +670,7 @@
 		"jp" "{orange}セントリーガン"
 		"sv" "{orange}Vaktgeväret"
 		"tr" "{orange}Sentry"
+		"chi" ""
 	}
 	"#SMStats_Object_Type1" //Dispenser.
 	{
@@ -610,6 +678,7 @@
 		"jp" "{orange}ディスペンサー"
 		"sv" "{orange}Utmataren"
 		"tr" "{orange}Dispenser"
+		"chi" ""
 	}
 	"#SMStats_Object_Type2" //Teleporter Entrance.
 	{
@@ -617,6 +686,7 @@
 		"jp" "{orange}テレポーターの入り口"
 		"sv" "{orange}Ingångsteleportern"
 		"tr" "{orange}Işınlayıcı Girişi"
+		"chi" ""
 	}
 	"#SMStats_Object_Type3" //Teleporter Exit.
 	{
@@ -624,6 +694,7 @@
 		"jp" "{orange}テレポーターの出口"
 		"sv" "{orange}Utgångsteleportern"
 		"tr" "{orange}Işınlayıcı Çıkışı"
+		"chi" ""
 	}
 	"#SMStats_Object_Type4" //Mini-Sentrygun.
 	{
@@ -631,24 +702,28 @@
 		"jp" "{orange}ミニセントリーガン"
 		"sv" "{orange}Mini-Vaktgeväret"
 		"tr" "{orange}Mini-Sentry"
+		"chi" ""
 	}
 	"#SMStats_Object_Type5" //Sapper.
 	{
 		"en" "{orange}Sapper"
 		"jp" "{orange}サッパー"
 		"tr" "{orange}Sapper"
+		"chi" ""
 	}
 	"#SMStats_ObjectEvent_Type0" //Object was placed.
 	{
 		"en" "{green}Placing"
 		"sv" "{green}Placera"
 		"tr" "{green}Yerleştirdi"
+		"chi" ""
 	}
 	"#SMStats_ObjectEvent_Type1" //Object was destroyed.
 	{
 		"en" "{green}Destroying"
 		"sv" "{green}Förstöra"
 		"tr" "{green}Yok edildi"
+		"chi" ""
 	}
 	"#SMStats_ObjectEvent_Default" //Object event.
 	{
@@ -661,6 +736,7 @@
 		"en" "{1} ({2}) {3} {4} {5}"
 		"sv" "{1} ({2}) {3} för att {4} {5}"
 		"tr" "{1} ({2}) bir {5} {4} ve {3} kazandı"
+		"chi" ""
 	}
 
 	//===================//
@@ -675,6 +751,7 @@
 		"en" "{1} ({2}) Earned {3} for {green}Picking Up {default}neutral ball."
 		"sv" "{1} ({2}) {3} för att {green}Plocka Upp {default}den neutrala bollen."
 		"tr" "{1} ({2}) {green}Topu {default}kaparak {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_ScoreBall"
 	{
@@ -685,6 +762,7 @@
 		"en" "{1} ({2}) {3} for {green}Scoring {default}the ball."
 		"sv" "{1} ({2}) {3} för att {green}Göra mål {default}med bollen."
 		"tr" "{1} ({2}) {green}Gol Atarak {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_DropBall"
 	{
@@ -695,6 +773,7 @@
 		"en" "{1} ({2}) {3} for {green}Dropping {default}the ball."
 		"sv" "{1} ({2}) {3} för att {green}Tappa {default}bollen."
 		"tr" "{1} ({2}) {green}Topu Düşürerek {default}{3} kaybetti."
+		"chi" ""
 	}
 	"#SMStats_PassBall_CatchBall_Scenario0"
 	{
@@ -705,6 +784,7 @@
 		"en" "{1} ({2}) {3} for {green}Catching {default}the ball."
 		"sv" "{1} ({2}) {3} för att {green}Ta Emot {default}bollen."
 		"tr" "{1} ({2}) {green}Topu Yakalayarak {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_CatchBall_Scenario1"
 	{
@@ -716,6 +796,7 @@
 		"en" "{1} ({2}) {3} for {green}Catching {default}the ball from {4}."
 		"sv" "{1} ({2}) {3} för att {green}Ta Emot {default}bollen ifrån {4}."
 		"tr" "{1} ({2}) {4} tarafından atılan topu {green}yakalayarak {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_StealBall_Scenario0"
 	{
@@ -726,6 +807,7 @@
 		"en" "{1} ({2}) {3} for {green}Stealing {default}the ball."
 		"sv" "{1} ({2}) {3} för att {green}Stjäla {default}bollen."
 		"tr" "{1} ({2}) Topu {green}çalarak {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_StealBall_Scenario1"
 	{
@@ -737,6 +819,7 @@
 		"en" "{1} ({2}) {3} for {green}Stealing {default}the ball from {4}."
 		"sv" "{1} ({2}) {3} för att {green}Stjäla {default}bollen ifrån {4}."
 		"tr" "{1} ({2}) {4} tarafından atılan topu {green}çalarak {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_BlockBall_Scenario0"
 	{
@@ -747,6 +830,7 @@
 		"en" "{1} ({2}) {3} for {green}Blocking {default}the ball."
 		"sv" "{1} ({2}) {3} för att {green}Blockera {default}bollen."
 		"tr" "{1} ({2}) Topu {green}engelleyerek {default}{3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_PassBall_BlockBall_Scenario1"
 	{
@@ -758,6 +842,7 @@
 		"en" "{1} ({2}) {3} for {green}Blocking {default}the ball from {4}."
 		"sv" "{1} ({2}) {3} för att {green}Blockera {default}bollen ifrån {4}."
 		"tr" "{1} ({2}) {4} tarafından atılan topu {green}engelleyerek {default}{3} kazandı."
+		"chi" ""
 	}
 
 	//===================//
@@ -768,6 +853,7 @@
 		"en" "{purple}Horseless Headless Horsemann"
 		"sv" "{purple}Hästlöshuvudslösahästmannen"
 		"tr" "{purple}Horseless Headless Horsemann{default}'ı"
+		"chi" ""
 	}
 	"#SMStats_HalloweenBoss_Type2" //Monoculus.
 	{
@@ -782,6 +868,7 @@
 		"en" "{lightgreen}Skeleton King"
 		"sv" "{lightgreen}Skelettkung"
 		"tr" "{lightgreen}İskelet Kral"
+		"chi" ""
 	}
 	"#SMStats_FragEvent_HalloweenBoss" //Killed boss.
 	{
@@ -793,6 +880,7 @@
 		"en" "{1} ({2}) {3} fragging halloween boss ({4})"
 		"sv" "{1} ({2}) {3} fragga halloween boss ({4})."
 		"tr" "{1} ({2}) {4} {green}öldürerek {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_HalloweenBoss_StunEvent" //Stunned boss.
 	{
@@ -804,6 +892,7 @@
 		"en" "{1} ({2}) {3} for {green}Stunning {4}"
 		"sv" "{1} ({2}) {3} för att {green}Stunnat {4}"
 		"tr" "{1} ({2}) {4} {green}sersemleterek {3} kazandı."
+		"chi" ""
 	}
 
 	//===================//
@@ -818,6 +907,7 @@
 		"en" "{1} ({2}) {3} for destroying the {cyan}Tank{default}."
 		"sv" "{1} ({2}) {3} för att förstört {cyan}Tanken{default}."
 		"tr" "{1} ({2}) {cyan}Tankı{default} yok ederek {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_MvM_Player_FragRobot"
 	{
@@ -828,6 +918,7 @@
 		"en" "{1} ({2}) {3} for fragging a {cyan}Robot{default}."
 		"sv" "{1} ({2}) {3} för att ha fraggat {cyan}Roboten{default}."
 		"tr" "{1} ({2}) {cyan}Robot{default} öldürerek {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_MvM_Player_FragSentryBuster"
 	{
@@ -839,6 +930,7 @@
 		"en" "{1} ({2}) {3} {4} for fragging {cyan}Sentry Buster{default}."
 		"sv" "{1} ({2}) {3} {4} för att ha fraggat {cyan}Vaktgevärsförgöraren{default}."
 		"tr" "{1} ({2}) {cyan}Sentry Buster{default} öldürerek {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_MvM_Player_ResetBomb"
 	{
@@ -849,6 +941,7 @@
 		"en" "{1} ({2}) {3} for {green}Resetting {default}the bomb."
 		"sv" "{1} ({2}) {3} för att {green}Resetta {default}bomben."
 		"tr" "{1} ({2}) {green}Bomba Sıfırlama{default} karşılığı {3} kazandı."
+		"chi" ""
 	}
 
 	//===================//
@@ -865,6 +958,7 @@
 		"jp" "{1} ({2})が{4}をユーバーチャージしましたため{3}。"
 		"sv" "{1} ({2}) {3} för att überladda {4}."
 		"tr" "{1} ({2}) {4} {green}über vererek {3} kazandı."
+		"chi" ""
 	}
 	"#SMStats_Player_UsedTeleporter"
 	{
@@ -877,6 +971,7 @@
 		"jp" "{1} ({2})が{4}をあなたのテレポーターを使ったため{3}"
 		"sv" "{1} ({2}) {3} för att {4} använt din teleporter."
 		"tr" "{1} ({2}) {4} Işınlayıcını kullandığı için {3} kazandın."
+		"chi" ""
 	}
 	"#SMStats_Player_StealSandvich_Scenario0"
 	{
@@ -888,6 +983,7 @@
 		"en" "{1} ({2}) {3} for stealing sandvich that belonged to {4}."
 		"sv" "{1} ({2}) {3} för att stjäla en smörgåse tillhörande {4}."
 		"tr" "{1} ({2}) {4} tarafından bırakılan sandviçi {green}çalarak {default}{3} kazandın."
+		"chi" ""
 	}
 	"#SMStats_Player_StealSandvich_Scenario1"
 	{
@@ -898,6 +994,7 @@
 		"en" "{1} ({2}) {3} Stealing a sandvich."
 		"sv" "{1} ({2}) {3} för att Stjäla en smörgås."
 		"tr" "{1} ({2}) Sandviç {green}çalarak{default} {3} kazandın."
+		"chi" ""
 	}
 
 	"#SMStats_Player_StunScenario0"
@@ -910,6 +1007,7 @@
 		"en" "{1} ({2}) {3} for {green}Stunning {4}"
 		"sv" "{1} ({2}) {3} för att {green}Stunna {4}"
 		"tr" "{1} ({2}) {4} oyuncusunu {green}sersemleterek{default} {3} kazandın."
+		"chi" ""
 	}
 	"#SMStats_Player_StunScenario1"
 	{
@@ -921,6 +1019,7 @@
 		"en" "{1} ({2}) {3} for {green}Stunning {4} ({green}Moon Shot{default})."
 		"sv" "{1} ({2}) {3} för att {green}Stunna {4} ({green}Månskott{default})."
 		"tr" "{1} ({2}) {4} oyuncusunu {green}Ay Vuruşu{default} ile {green}sersemleterek {default}{3} kazandın."
+		"chi" ""
 	}
 
 	"#SMStats_Player_CoatedPiss" //Pissed opponent.
@@ -933,6 +1032,7 @@
 		"en" "{1} ({2}) {3} coating {yellow}Piss {default}on {4}."
 		"sv" "{1} ({2}) {3} för att täcka {4} med {yellow}Urin{default}."
 		"tr" "{1} ({2}) {4} oyuncusunu {green}Kavate{default} ile kaplayarak {3} kazandın."
+		"chi" ""
 	}
 	"#SMStats_Player_CoatedMilk" //Milked opponent.
 	{
@@ -944,6 +1044,7 @@
 		"en" "{1} ({2}) {3} coating {grey}Milk {default}on {4}."
 		"sv" "{1} ({2}) {3} för att täcka {4} med {grey}Mjölk{default}."
 		"tr" "{1} ({2}) {4} oyuncusunu {green}Süt{default} ile kaplayarak {3} kazandın."
+		"chi" ""
 	}
 	"#SMStats_Player_CoatedGasoline" //Gasolined opponent.
 	{
@@ -955,6 +1056,7 @@
 		"en" "{1} ({2}) {3} coating {lavender}Gasoline {default}on {4}."
 		"sv" "{1} ({2}) {3} för att täcka {4} med {lavender}Bensin{default}."
 		"tr" "{1} ({2}) {4} oyuncusunu {green}Benzin{default} ile kaplayarak {3} kazandın."
+		"chi" ""
 	}
 
 	"#SMStats_Player_Extinguished" // extinguished
@@ -967,5 +1069,6 @@
 		"en" "{1} ({2}) {3} Extinguishing {4}."
 		"sv" "{1} ({2}) {3} för att släcka {4}."
 		"tr" "{1} ({2}) {4} oyuncusunu söndürerek {3} kazandın."
+		"chi" ""
 	}
 }
